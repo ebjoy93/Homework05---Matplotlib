@@ -1,0 +1,3 @@
+1. Capomulin is the best drug for tumor reduction and Ketapril is the worst drug for tumor reduction
+2. Capomulin has the least error of margin when compared to the other drugs
+3. Although Ketapril appears to be worse for tumor growth, the mice lived longer on Ketapril than on Infubinol 
